@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.3",
+  "Version": "0.0.4",
   "ReleaseNotes": "Configurações atualizadas para operadora vivo!",
   "UrlUpdate": "https://raw.githubusercontent.com/ApprenticeOk/files_config/main/savitar_update.json",
   "Sms": "https://raw.githubusercontent.com/ApprenticeOk/files_config/main/sms_update.json",
@@ -37,7 +37,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵Tim [02]",
+      "Name": "🔵Tim teste[02]",
       "FLAG": "tim",
       "Payload": "GET wss://empresas.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Sec-WebSocket-Protocol: chat, superchat[crlf]Sec-WebSocket-Version: 13[crlf][crlf]",
       "SNI": "empresas.alura.com.br",
