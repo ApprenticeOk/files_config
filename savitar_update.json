@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR BRASILEIRO",
+      "Name": "Server principal",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br-server.allowfind.tech",
