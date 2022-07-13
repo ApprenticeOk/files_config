@@ -12,8 +12,8 @@
       {
         "name": "VIVO TESTE",
         "config_v2ray": "",
-        "server_hostname": "br-server.allowfind.tech",
-        "description": "conexão padrão vivo",
+        "server_hostname": "legado.vivo.com.br",
+        "description": "conexão padrão vivo1",
         "username": "",
         "server_port": 80,
         "icon_image": "https://i.ibb.co/fqNkcV3/20220628-104206.png",
