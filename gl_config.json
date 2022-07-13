@@ -10,10 +10,10 @@
     "pages": 1,
     "results": [
       {
-        "name": "VIVO TESTE",
+        "name": "VIVO DIRECT",
         "config_v2ray": "",
-        "server_hostname": "legado.vivo.com.br",
-        "description": "conexão padrão vivo1",
+        "server_hostname": "172.67.165.43",
+        "description": "online",
         "username": "",
         "server_port": 80,
         "icon_image": "https://i.ibb.co/fqNkcV3/20220628-104206.png",
@@ -23,7 +23,7 @@
         "category_id": 1,
         "v2ray_uuid": "",
         "primary_dns_server": "8.8.8.8",
-        "payload": "GET wss://legado.vivo.com.br/ HTTP/1.1[lf]Host: br-server.allowfind.tech[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Upgrade: websocket[lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-WebSocket-Protocol: chat, superchat[lf]Sec-WebSocket-Version: 13[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+        "payload": "GET / HTTP/1.1[lf]Host: br-server.allowfind.tech[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Upgrade: websocket[lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-WebSocket-Protocol: chat, superchat[lf]Sec-WebSocket-Version: 13[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
         "status": "ACTIVE",
         "secondary_dns_server": "8.8.4.4",
         "sni": "br-server.allowfind.tech",
