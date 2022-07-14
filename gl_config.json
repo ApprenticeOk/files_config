@@ -136,8 +136,8 @@
         "url_check_user": "http://20.206.116.61:5000",
         "config_openvpn": "",
         "proxy_hostname": "172.67.165.43",
-        "sort_order": 3,
-        "id": 3,
+        "sort_order": 4,
+        "id": 4,
         "proxy_port": 443,
         "category": {
           "name": "SSH VIVO",
@@ -172,7 +172,7 @@
         "config_openvpn": "",
         "proxy_hostname": "go.kaltura.com",
         "sort_order": 1,
-        "id": 4,
+        "id": 5,
         "proxy_port": 443,
         "category": {
           "name": "SSH CLARO",
@@ -207,7 +207,7 @@
         "config_openvpn": "",
         "proxy_hostname": "4.icanhazip.com",
         "sort_order": 2,
-        "id": 5,
+        "id": 6,
         "proxy_port": 443,
         "category": {
           "name": "SSH CLARO",
@@ -242,7 +242,7 @@
         "config_openvpn": "",
         "proxy_hostname": "www.boom4u.com.br",
         "sort_order": 3,
-        "id": 6,
+        "id": 7,
         "proxy_port": 443,
         "category": {
           "name": "SSH CLARO",
@@ -277,7 +277,7 @@
         "config_openvpn": "",
         "proxy_hostname": "172.67.165.43",
         "sort_order": 1,
-        "id": 7,
+        "id": 8,
         "proxy_port": 443,
         "category": {
           "name": "SSH TIM",
@@ -312,7 +312,7 @@
         "config_openvpn": "",
         "proxy_hostname": "172.67.165.43",
         "sort_order": 2,
-        "id": 8,
+        "id": 9,
         "proxy_port": 443,
         "category": {
           "name": "SSH TIM",
@@ -347,7 +347,7 @@
         "config_openvpn": "",
         "proxy_hostname": "172.67.165.43",
         "sort_order": 3,
-        "id": 9,
+        "id": 10,
         "proxy_port": 443,
         "category": {
           "name": "SSH TIM",
